@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AkshayKudaleReactJs/static/css/main.e240a342.css",
+    "main.js": "/AkshayKudaleReactJs/static/js/main.442feaf8.js",
+    "index.html": "/AkshayKudaleReactJs/index.html",
+    "main.e240a342.css.map": "/AkshayKudaleReactJs/static/css/main.e240a342.css.map",
+    "main.442feaf8.js.map": "/AkshayKudaleReactJs/static/js/main.442feaf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e240a342.css",
+    "static/js/main.442feaf8.js"
+  ]
+}
