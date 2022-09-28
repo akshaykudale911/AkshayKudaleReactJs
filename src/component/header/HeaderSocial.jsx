@@ -6,9 +6,9 @@ import {BsDribbble} from 'react-icons/bs'
 const HeaderSocial = () => {
   return (
     <div className='header_socials'>
-        <a href='https://linkedin.com' target='_blank'><BsLinkedin/></a>
-        <a href='https://github.com' target='_blank'><BsGithub/></a>
-        <a href='https://dribble.com' target='_blank'><BsDribbble/></a>
+        <a href='https://linkedin.com' target='_blank' rel="noopener noreferrer"><BsLinkedin/></a>
+        <a href='https://github.com' target='_blank'rel="noopener noreferrer"><BsGithub/></a>
+        <a href='https://dribble.com' target='_blank'rel="noopener noreferrer"><BsDribbble/></a>
         {/* search react icons  */}
     </div>
   )
