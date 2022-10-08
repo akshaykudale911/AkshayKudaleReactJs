@@ -17,13 +17,13 @@
     place-items: center;
 }
 
-.about_me-image {
+.about_me_position {
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
 }
-.about_me-image:hover{
+.about_me_position:hover{
     transform: rotate(0deg);
 }
 
