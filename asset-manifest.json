@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/AkshayKudaleReactJs/static/css/main.e240a342.css",
-    "main.js": "/AkshayKudaleReactJs/static/js/main.442feaf8.js",
+    "main.css": "/AkshayKudaleReactJs/static/css/main.ae51ecfc.css",
+    "main.js": "/AkshayKudaleReactJs/static/js/main.f0a4bca9.js",
+    "static/media/me-about.jpg": "/AkshayKudaleReactJs/static/media/me-about.44d190754d39c3805fbc.jpg",
+    "static/media/cv.pdf": "/AkshayKudaleReactJs/static/media/cv.56c029a2bc2fda61ba02.pdf",
+    "static/media/me.png": "/AkshayKudaleReactJs/static/media/me.e748460c6185d352b3a1.png",
     "index.html": "/AkshayKudaleReactJs/index.html",
-    "main.e240a342.css.map": "/AkshayKudaleReactJs/static/css/main.e240a342.css.map",
-    "main.442feaf8.js.map": "/AkshayKudaleReactJs/static/js/main.442feaf8.js.map"
+    "main.ae51ecfc.css.map": "/AkshayKudaleReactJs/static/css/main.ae51ecfc.css.map",
+    "main.f0a4bca9.js.map": "/AkshayKudaleReactJs/static/js/main.f0a4bca9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e240a342.css",
-    "static/js/main.442feaf8.js"
+    "static/css/main.ae51ecfc.css",
+    "static/js/main.f0a4bca9.js"
   ]
 }
