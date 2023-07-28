@@ -23,25 +23,40 @@ const about = () => {
             <article className="about_card">
               <FaAward className='about_icon' />
               <h5>Experience</h5>
-              <small>3 years working Experience</small>
+              <small>3.9 years working Experience</small>
             </article>
 
             <article className="about_card">
               <FiUsers className='about_icon' />
-              <h5>Clients</h5>
-              <small>300+ Clients world wide</small>
+              <h5>Worked At</h5>
+              <small>Square Vision Technologies</small><br/><br/>
+              <small>Wipro Technologies</small><br/><br/>
+              <small>Cloudesign Technology Solutions</small><br/>
             </article>
 
             <article className="about_card">
               <VscFolderLibrary className='about_icon' />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>CalSmart Manager</small><br/><br/>
+              <small>GPAT</small><br/><br/><br/>
+              <small>StickSecure</small><br/>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis quae, esse libero repellat ipsum commodi, voluptates fugit, eaque quibusdam eius incidunt nam nemo ab vitae odio laboriosam omnis similique praesentium!
+          <strong>3 Years 11 Months</strong> of experience in implementing <strong>C# .Net technologies.</strong>
+          Worked with <strong>SQL Server 2022.</strong>
+          Having good knowledge and experience in <strong>Asp.net Core, Asp.net MVC, Entity
+Framework, NET Framework 4.0.</strong>
+          Have good knowledge in OOPs Concepts and implementation.
+          Proficient in <strong>SQL Server, HTML.</strong>
+          Exposure to <strong>JavaScript, jQuery.</strong>
+          {/* Familiar with services like Web API.
+          Familiar with testing tools Fiddler, Postman, Swagger UI.<br/>
+          Excellent Inter-Personal and Communication skills and the ability to work efficiently,
+quick learning& working with new technologies to fulfil project needs. */}
           </p>
-          <a href='#contact' className='btn btn-primary'>Let's Talk</a></div>
+          {/* <a href='#contact' className='btn btn-primary' text>Let's Talk</a> */}
+          </div>
       </div>
     </section>
   )

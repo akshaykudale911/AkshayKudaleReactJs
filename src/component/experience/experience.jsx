@@ -34,8 +34,10 @@ const experience = () => {
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
+              <div>
               <h4>Bootstrap</h4>
               <small className='text-light'>Experienced</small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
@@ -59,42 +61,42 @@ const experience = () => {
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
-                <h4>NodeJs</h4>
+                <h4>MS-SQL</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
-                <h4>MongoDb</h4>
+                <h4>Web API</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
-                <h4>MySql</h4>
+                <h4>ASP.NET Core</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
-                <h4>Python</h4>
+                <h4>C#</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
-                <h4>Sql</h4>
+                <h4>Entity Framework</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience_details-icon' />
               <div>
-                <h4>backend</h4>
+                <h4>LINQ</h4>
                 <small className='text-light'>Bigenner</small>
               </div>
             </article>
