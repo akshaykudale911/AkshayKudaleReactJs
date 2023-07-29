@@ -3,11 +3,11 @@ import Header from './component/header/header'
 import Nav from './component/nav/nav'
 import About from './component/about/about'
 import Experience from './component/experience/experience'
-import Servicess from './component/servicess/servicess'
-import Testimonials from './component/testimonials/testimonials'
 import Contact from './component/contact/contact'
 import Footer from './component/footer/footer'
-import Portfolio from './component/portfolio/portfolio'
+// import Servicess from './component/servicess/servicess'
+// import Testimonials from './component/testimonials/testimonials'
+// import Portfolio from './component/portfolio/portfolio'
 
 const App = () => {
     return (
@@ -17,9 +17,9 @@ const App = () => {
         <Nav/>
         <About/>
         <Experience/>
-        <Portfolio/>
+        {/* <Portfolio/>
         <Servicess/>
-        <Testimonials/>
+        <Testimonials/> */}
         <Contact/>
         <Footer/>
         </>
